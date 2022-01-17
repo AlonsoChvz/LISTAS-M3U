@@ -12,4 +12,6 @@ http://200.126.115.156:8000/play/a0iw/index.m3u8
 
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTEM3U:-1 tvg-name="Adult swim" tgv-logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento" ,Adult Swim
+#EXTINF:-1 tvg-name="Adult swim" tgv-logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento" ,Adult Swim
+
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
